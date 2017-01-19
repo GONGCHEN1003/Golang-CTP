@@ -1,0 +1,8 @@
+将文件解压到GOPATH/src路径下
+生成goctp包命令：make build
+编译example命令：make example
+即可运行样例程序
+
+
+
+//尚未解决问题：如何不通过报单回报而查出报单对应的编号
